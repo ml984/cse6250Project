@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/maxwell/pro/src/main/scala/main/Main.scala:109:23: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: TraversableOnce[?][0m
+[0m[[0m[31merror[0m] [0m[0m    }.flatMap(list => list).toDF.coalesce(1).write.format("csv").mode("overwrite").save("output")[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

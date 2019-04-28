@@ -1,0 +1,1003 @@
+2019-04-25 14:25:17,302 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 14:25:27,283 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 14:25:27,361 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 14:25:27,416 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 14:25:29,678 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 14:25:29,811 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 14:25:29,838 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 14:25:30,866 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425142530_0000_m_000000_0' to file:/Users/maxliu/Downloads/pro/code/test_600_61/_temporary/0/task_20190425142530_0000_m_000000
+2019-04-25 15:01:00,180 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:01:05,198 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:01:05,213 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:01:05,239 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:01:06,353 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:01:06,442 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:01:06,459 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 15:01:07,168 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425150106_0000_m_000000_0' to file:/Users/maxliu/Downloads/pro/code/test_600_62/_temporary/0/task_20190425150106_0000_m_000000
+2019-04-25 15:08:19,844 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:08:30,627 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:08:30,648 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:08:30,692 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:19:44,779 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:19:55,383 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:19:55,406 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:19:55,455 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:22:24,920 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:22:42,068 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:22:42,125 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:22:42,315 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:24:54,437 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:24:59,479 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:24:59,488 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:24:59,515 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:25:01,076 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:25:01,198 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:25:01,214 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 15:25:02,002 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425152501_0000_m_000000_0' to file:/Users/maxliu/Downloads/project/test_600_63/_temporary/0/task_20190425152501_0000_m_000000
+2019-04-25 15:32:32,465 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:32:47,985 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:32:48,019 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:32:48,074 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:32:50,692 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:32:50,850 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:32:50,881 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 15:32:52,791 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425153251_0000_m_000000_0' to file:/Users/maxliu/Downloads/project/test_600_64/_temporary/0/task_20190425153251_0000_m_000000
+2019-04-25 15:45:21,037 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:45:35,721 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:45:35,745 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:45:35,812 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:45:37,825 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:45:37,973 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:45:37,990 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 15:45:39,111 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425154538_0000_m_000000_0' to file:/Users/maxliu/Downloads/project/test_600_65/_temporary/0/task_20190425154538_0000_m_000000
+2019-04-25 15:49:06,070 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:49:17,254 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:49:17,588 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:49:17,665 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:49:20,989 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:49:21,142 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:49:21,171 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 15:49:22,491 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425154921_0000_m_000000_0' to file:/Users/maxliu/Downloads/project/test_600_66/_temporary/0/task_20190425154921_0000_m_000000
+2019-04-25 15:52:42,226 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:52:49,970 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:52:49,995 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:52:50,043 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:52:51,754 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:52:51,903 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:52:51,921 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 15:52:52,910 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425155252_0000_m_000000_0' to file:/Users/maxliu/Downloads/project/test_600_67/_temporary/0/task_20190425155252_0000_m_000000
+2019-04-25 15:57:56,475 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 15:58:13,803 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:58:13,822 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 15:58:13,960 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 15:58:17,526 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:58:17,838 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 15:58:17,884 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 15:58:23,492 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425155820_0000_m_000000_0' to file:/Users/maxliu/Downloads/project/test_600_68/_temporary/0/task_20190425155820_0000_m_000000
+2019-04-25 16:02:05,108 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-25 16:02:12,967 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 16:02:12,982 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-25 16:02:13,070 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-25 16:02:14,727 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 16:02:14,868 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-25 16:02:14,891 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-25 16:02:15,893 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190425160215_0000_m_000000_0' to file:/Users/maxliu/Downloads/project/test_600_69/_temporary/0/task_20190425160215_0000_m_000000
+2019-04-27 00:40:12,031 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 00:40:15,556 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 00:40:15,566 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 00:40:15,588 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 00:40:16,529 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 00:40:16,607 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 00:40:16,624 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 00:40:17,041 ERROR Executor task launch worker for task 0 org.apache.spark.util.Utils - Aborting task
+java.lang.StringIndexOutOfBoundsException: String index out of range: 51
+	at java.lang.String.substring(String.java:1963) ~[na:1.8.0_121]
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:107) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:50) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.mutable.ArrayOps$ofRef.map(ArrayOps.scala:186) ~[scala-library-2.11.12.jar:na]
+	at main.Main$$anonfun$1.apply(Main.scala:50) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main$$anonfun$1.apply(Main.scala:22) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at scala.collection.Iterator$$anon$11.next(Iterator.scala:410) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:435) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:441) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:409) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.sql.catalyst.expressions.GeneratedClass$GeneratedIteratorForCodegenStage1.processNext(Unknown Source) ~[na:na]
+	at org.apache.spark.sql.execution.BufferedRowIterator.hasNext(BufferedRowIterator.java:43) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.WholeStageCodegenExec$$anonfun$10$$anon$1.hasNext(WholeStageCodegenExec.scala:614) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:439) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$SingleDirectoryWriteTask.execute(FileFormatWriter.scala:380) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:269) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:267) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.tryWithSafeFinallyAndFailureCallbacks(Utils.scala:1411) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:272) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:197) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:196) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.Task.run(Task.scala:109) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+2019-04-27 00:40:17,045 ERROR Executor task launch worker for task 0 org.apache.spark.sql.execution.datasources.FileFormatWriter - Job job_20190427004016_0000 aborted.
+2019-04-27 00:40:17,053 ERROR Executor task launch worker for task 0 org.apache.spark.executor.Executor - Exception in task 0.0 in stage 0.0 (TID 0)
+org.apache.spark.SparkException: Task failed while writing rows.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:285) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:197) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:196) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.Task.run(Task.scala:109) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: 51
+	at java.lang.String.substring(String.java:1963) ~[na:1.8.0_121]
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:107) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:50) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.mutable.ArrayOps$ofRef.map(ArrayOps.scala:186) ~[scala-library-2.11.12.jar:na]
+	at main.Main$$anonfun$1.apply(Main.scala:50) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main$$anonfun$1.apply(Main.scala:22) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at scala.collection.Iterator$$anon$11.next(Iterator.scala:410) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:435) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:441) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:409) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.sql.catalyst.expressions.GeneratedClass$GeneratedIteratorForCodegenStage1.processNext(Unknown Source) ~[na:na]
+	at org.apache.spark.sql.execution.BufferedRowIterator.hasNext(BufferedRowIterator.java:43) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.WholeStageCodegenExec$$anonfun$10$$anon$1.hasNext(WholeStageCodegenExec.scala:614) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:439) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$SingleDirectoryWriteTask.execute(FileFormatWriter.scala:380) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:269) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:267) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.tryWithSafeFinallyAndFailureCallbacks(Utils.scala:1411) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:272) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	... 8 common frames omitted
+2019-04-27 00:40:17,075 WARN task-result-getter-0 org.apache.spark.scheduler.TaskSetManager - Lost task 0.0 in stage 0.0 (TID 0, localhost, executor driver): org.apache.spark.SparkException: Task failed while writing rows.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:285)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:197)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:196)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: 51
+	at java.lang.String.substring(String.java:1963)
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:107)
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:50)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234)
+	at scala.collection.mutable.ArrayOps$ofRef.map(ArrayOps.scala:186)
+	at main.Main$$anonfun$1.apply(Main.scala:50)
+	at main.Main$$anonfun$1.apply(Main.scala:22)
+	at scala.collection.Iterator$$anon$11.next(Iterator.scala:410)
+	at scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:435)
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:441)
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:409)
+	at org.apache.spark.sql.catalyst.expressions.GeneratedClass$GeneratedIteratorForCodegenStage1.processNext(Unknown Source)
+	at org.apache.spark.sql.execution.BufferedRowIterator.hasNext(BufferedRowIterator.java:43)
+	at org.apache.spark.sql.execution.WholeStageCodegenExec$$anonfun$10$$anon$1.hasNext(WholeStageCodegenExec.scala:614)
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:439)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$SingleDirectoryWriteTask.execute(FileFormatWriter.scala:380)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:269)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:267)
+	at org.apache.spark.util.Utils$.tryWithSafeFinallyAndFailureCallbacks(Utils.scala:1411)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:272)
+	... 8 more
+
+2019-04-27 00:40:17,080 ERROR task-result-getter-0 org.apache.spark.scheduler.TaskSetManager - Task 0 in stage 0.0 failed 1 times; aborting job
+2019-04-27 00:40:17,092 ERROR main org.apache.spark.sql.execution.datasources.FileFormatWriter - Aborting job null.
+org.apache.spark.SparkException: Job aborted due to stage failure: Task 0 in stage 0.0 failed 1 times, most recent failure: Lost task 0.0 in stage 0.0 (TID 0, localhost, executor driver): org.apache.spark.SparkException: Task failed while writing rows.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:285)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:197)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:196)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: 51
+	at java.lang.String.substring(String.java:1963)
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:107)
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:50)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234)
+	at scala.collection.mutable.ArrayOps$ofRef.map(ArrayOps.scala:186)
+	at main.Main$$anonfun$1.apply(Main.scala:50)
+	at main.Main$$anonfun$1.apply(Main.scala:22)
+	at scala.collection.Iterator$$anon$11.next(Iterator.scala:410)
+	at scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:435)
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:441)
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:409)
+	at org.apache.spark.sql.catalyst.expressions.GeneratedClass$GeneratedIteratorForCodegenStage1.processNext(Unknown Source)
+	at org.apache.spark.sql.execution.BufferedRowIterator.hasNext(BufferedRowIterator.java:43)
+	at org.apache.spark.sql.execution.WholeStageCodegenExec$$anonfun$10$$anon$1.hasNext(WholeStageCodegenExec.scala:614)
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:439)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$SingleDirectoryWriteTask.execute(FileFormatWriter.scala:380)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:269)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:267)
+	at org.apache.spark.util.Utils$.tryWithSafeFinallyAndFailureCallbacks(Utils.scala:1411)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:272)
+	... 8 more
+
+Driver stacktrace:
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1599) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1587) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1586) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1586) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.Option.foreach(Option.scala:257) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1820) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1769) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1758) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2027) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at main.Main$.transform(Main.scala:114) [cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main$.main(Main.scala:12) [cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main.main(Main.scala) [cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+Caused by: org.apache.spark.SparkException: Task failed while writing rows.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:285) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:197) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$write$1.apply(FileFormatWriter.scala:196) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.scheduler.Task.run(Task.scala:109) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) ~[na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) ~[na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_121]
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: 51
+	at java.lang.String.substring(String.java:1963) ~[na:1.8.0_121]
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:107) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main$$anonfun$1$$anonfun$3.apply(Main.scala:50) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.mutable.ArrayOps$ofRef.map(ArrayOps.scala:186) ~[scala-library-2.11.12.jar:na]
+	at main.Main$$anonfun$1.apply(Main.scala:50) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main$$anonfun$1.apply(Main.scala:22) ~[cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at scala.collection.Iterator$$anon$11.next(Iterator.scala:410) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:435) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:441) ~[scala-library-2.11.12.jar:na]
+	at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:409) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.sql.catalyst.expressions.GeneratedClass$GeneratedIteratorForCodegenStage1.processNext(Unknown Source) ~[na:na]
+	at org.apache.spark.sql.execution.BufferedRowIterator.hasNext(BufferedRowIterator.java:43) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.WholeStageCodegenExec$$anonfun$10$$anon$1.hasNext(WholeStageCodegenExec.scala:614) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:439) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$SingleDirectoryWriteTask.execute(FileFormatWriter.scala:380) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:269) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$$anonfun$org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask$3.apply(FileFormatWriter.scala:267) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.tryWithSafeFinallyAndFailureCallbacks(Utils.scala:1411) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.org$apache$spark$sql$execution$datasources$FileFormatWriter$$executeTask(FileFormatWriter.scala:272) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	... 8 common frames omitted
+2019-04-27 00:55:49,109 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 00:55:52,747 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 00:55:52,756 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 00:55:52,782 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 00:55:53,803 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 00:55:53,879 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 00:55:53,893 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 00:55:54,456 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427005554_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427005554_0000_m_000000
+2019-04-27 09:43:02,425 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 09:43:05,786 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 09:43:05,794 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 09:43:05,813 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 09:43:06,569 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 09:43:06,625 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 09:43:06,635 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 09:43:07,105 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427094306_0000_m_000000_0' to file:/Users/maxwell/pro/output2/_temporary/0/task_20190427094306_0000_m_000000
+2019-04-27 09:51:40,942 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 09:51:44,131 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 09:51:44,141 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 09:51:44,162 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 09:51:44,855 ERROR main org.apache.spark.sql.execution.datasources.FileFormatWriter - Aborting job null.
+org.apache.hadoop.mapreduce.lib.input.InvalidInputException: Input path does not exist: file:/Users/maxwell/pro/data2
+	at org.apache.hadoop.mapreduce.lib.input.FileInputFormat.singleThreadedListStatus(FileInputFormat.java:321) ~[hadoop-mapreduce-client-core-2.6.5.jar:na]
+	at org.apache.hadoop.mapreduce.lib.input.FileInputFormat.listStatus(FileInputFormat.java:264) ~[hadoop-mapreduce-client-core-2.6.5.jar:na]
+	at org.apache.spark.input.WholeTextFileInputFormat.setMinPartitions(WholeTextFileInputFormat.scala:52) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.WholeTextFileRDD.getPartitions(WholeTextFileRDD.scala:54) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.Option.getOrElse(Option.scala:121) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:35) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.Option.getOrElse(Option.scala:121) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:35) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.Option.getOrElse(Option.scala:121) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:35) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.Option.getOrElse(Option.scala:121) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:35) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.Option.getOrElse(Option.scala:121) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:35) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:253) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.Option.getOrElse(Option.scala:121) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:251) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDD.getNumPartitions(RDD.scala:267) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.CoalesceExec.doExecute(basicPhysicalOperators.scala:583) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:180) ~[spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225) [spark-sql_2.11-2.3.0.jar:2.3.0]
+	at main.Main$.transform(Main.scala:110) [cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main$.main(Main.scala:9) [cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+	at main.Main.main(Main.scala) [cse6250finalproject_2.11-1.1.0.jar:1.1.0]
+2019-04-27 09:53:03,560 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 09:53:06,795 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 09:53:06,804 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 09:53:06,825 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 09:53:07,584 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 09:53:07,645 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 09:53:07,656 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 09:53:08,155 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427095307_0000_m_000000_0' to file:/Users/maxwell/pro/output2/_temporary/0/task_20190427095307_0000_m_000000
+2019-04-27 09:54:10,867 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 09:54:14,325 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 09:54:14,334 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 09:54:14,352 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 09:54:15,137 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 09:54:15,198 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 09:54:15,209 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 09:54:15,699 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427095415_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427095415_0000_m_000000
+2019-04-27 16:36:17,677 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 16:36:20,751 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:36:20,759 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:36:20,780 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 16:36:21,524 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:36:21,573 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:36:21,583 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 16:36:22,056 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427163621_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427163621_0000_m_000000
+2019-04-27 16:46:51,298 WARN run-main-0 org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 16:46:54,820 WARN run-main-0 org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:46:54,832 WARN run-main-0 org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:46:54,853 WARN run-main-0 org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 16:46:55,588 INFO run-main-0 org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:46:55,645 INFO run-main-0 org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:46:55,658 INFO run-main-0 org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 16:46:56,181 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427164655_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427164655_0000_m_000000
+2019-04-27 16:46:56,280 WARN org.apache.hadoop.fs.FileSystem$Statistics$StatisticsDataReferenceCleaner org.apache.hadoop.fs.FileSystem - exception in the cleaner thread but it will continue to run
+java.lang.InterruptedException: null
+	at java.lang.Object.wait(Native Method) ~[na:1.8.0_121]
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143) ~[na:1.8.0_121]
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164) ~[na:1.8.0_121]
+	at org.apache.hadoop.fs.FileSystem$Statistics$StatisticsDataReferenceCleaner.run(FileSystem.java:2989) ~[hadoop-common-2.6.5.jar:na]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+2019-04-27 16:46:56,280 ERROR Spark Context Cleaner org.apache.spark.ContextCleaner - Error in cleaning thread
+java.lang.InterruptedException: null
+	at java.lang.Object.wait(Native Method) ~[na:1.8.0_121]
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143) ~[na:1.8.0_121]
+	at org.apache.spark.ContextCleaner$$anonfun$org$apache$spark$ContextCleaner$$keepCleaning$1.apply$mcV$sp(ContextCleaner.scala:181) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.tryOrStopSparkContext(Utils.scala:1319) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.ContextCleaner.org$apache$spark$ContextCleaner$$keepCleaning(ContextCleaner.scala:178) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.ContextCleaner$$anon$1.run(ContextCleaner.scala:73) [spark-core_2.11-2.3.0.jar:2.3.0]
+2019-04-27 16:47:05,207 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:47:15,201 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:47:25,203 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:47:35,204 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:47:45,200 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:47:55,203 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:48:05,204 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:48:15,205 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:48:25,205 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:48:35,205 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:48:45,205 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:48:51,409 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 16:48:54,506 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:48:54,514 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:48:54,536 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 16:48:55,206 WARN driver-heartbeater org.apache.spark.executor.Executor - Issue communicating with driver in heartbeater
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:92) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor.org$apache$spark$executor$Executor$$reportHeartBeat(Executor.scala:785) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply$mcV$sp(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2$$anonfun$run$1.apply(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.executor.Executor$$anon$2.run(Executor.scala:814) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [na:1.8.0_121]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180) [na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_121]
+Caused by: org.apache.spark.SparkException: Could not find HeartbeatReceiver.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcEndpointRef.askSync(RpcEndpointRef.scala:91) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	... 13 common frames omitted
+2019-04-27 16:48:55,292 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:48:55,337 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:48:55,348 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 16:48:55,831 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427164855_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427164855_0000_m_000000
+2019-04-27 16:48:56,389 ERROR Thread-2 org.apache.spark.MapOutputTrackerMaster - Error communicating with MapOutputTracker
+org.apache.spark.rpc.RpcTimeoutException: Cannot receive any reply from 192.168.99.1:55382 in 120 seconds. This timeout is controlled by spark.rpc.askTimeout
+	at org.apache.spark.rpc.RpcTimeout.org$apache$spark$rpc$RpcTimeout$$createRpcTimeoutException(RpcTimeout.scala:47) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$addMessageIfTimeout$1.applyOrElse(RpcTimeout.scala:62) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$addMessageIfTimeout$1.applyOrElse(RpcTimeout.scala:58) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36) ~[scala-library-2.11.12.jar:1.0.4]
+	at scala.util.Failure$$anonfun$recover$1.apply(Try.scala:216) ~[scala-library-2.11.12.jar:1.0.4]
+	at scala.util.Try$.apply(Try.scala:192) ~[scala-library-2.11.12.jar:1.0.4]
+	at scala.util.Failure.recover(Try.scala:216) ~[scala-library-2.11.12.jar:1.0.4]
+	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:326) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:326) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36) ~[scala-library-2.11.12.jar:na]
+	at org.spark_project.guava.util.concurrent.MoreExecutors$SameThreadExecutorService.execute(MoreExecutors.java:293) ~[spark-network-common_2.11-2.3.0.jar:2.3.0]
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$1.execute(ExecutionContextImpl.scala:136) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:44) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:252) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:157) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:237) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:237) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch$$anonfun$run$1.processBatch$1(BatchingExecutor.scala:63) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:78) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch$$anonfun$run$1.apply(BatchingExecutor.scala:55) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch$$anonfun$run$1.apply(BatchingExecutor.scala:55) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:54) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:601) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$class.execute(BatchingExecutor.scala:106) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:599) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:44) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:252) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Promise$class.tryFailure(Promise.scala:112) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:157) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.org$apache$spark$rpc$netty$NettyRpcEnv$$onFailure$1(NettyRpcEnv.scala:206) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv$$anon$1.run(NettyRpcEnv.scala:243) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_121]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) ~[na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) ~[na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_121]
+Caused by: java.util.concurrent.TimeoutException: Cannot receive any reply from 192.168.99.1:55382 in 120 seconds
+	... 8 common frames omitted
+2019-04-27 16:48:56,391 ERROR Thread-2 org.apache.spark.util.Utils - Uncaught exception in thread Thread-2
+org.apache.spark.SparkException: Error communicating with MapOutputTracker
+	at org.apache.spark.MapOutputTracker.askTracker(MapOutputTracker.scala:270) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.MapOutputTracker.sendTracker(MapOutputTracker.scala:276) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.MapOutputTrackerMaster.stop(MapOutputTracker.scala:652) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.SparkEnv.stop(SparkEnv.scala:87) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.SparkContext$$anonfun$stop$11.apply$mcV$sp(SparkContext.scala:1940) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1357) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1939) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.SparkContext$$anonfun$2.apply$mcV$sp(SparkContext.scala:572) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:216) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(ShutdownHookManager.scala:188) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(ShutdownHookManager.scala:188) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1$$anonfun$apply$mcV$sp$1.apply(ShutdownHookManager.scala:188) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1988) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply$mcV$sp(ShutdownHookManager.scala:188) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(ShutdownHookManager.scala:188) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.SparkShutdownHookManager$$anonfun$runAll$1.apply(ShutdownHookManager.scala:188) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.util.Try$.apply(Try.scala:192) [scala-library-2.11.12.jar:1.0.4]
+	at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178) [spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.hadoop.util.ShutdownHookManager$1.run(ShutdownHookManager.java:54) [hadoop-common-2.6.5.jar:na]
+Caused by: org.apache.spark.rpc.RpcTimeoutException: Cannot receive any reply from 192.168.99.1:55382 in 120 seconds. This timeout is controlled by spark.rpc.askTimeout
+	at org.apache.spark.rpc.RpcTimeout.org$apache$spark$rpc$RpcTimeout$$createRpcTimeoutException(RpcTimeout.scala:47) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$addMessageIfTimeout$1.applyOrElse(RpcTimeout.scala:62) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.RpcTimeout$$anonfun$addMessageIfTimeout$1.applyOrElse(RpcTimeout.scala:58) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:36) ~[scala-library-2.11.12.jar:1.0.4]
+	at scala.util.Failure$$anonfun$recover$1.apply(Try.scala:216) ~[scala-library-2.11.12.jar:1.0.4]
+	at scala.util.Try$.apply(Try.scala:192) [scala-library-2.11.12.jar:1.0.4]
+	at scala.util.Failure.recover(Try.scala:216) ~[scala-library-2.11.12.jar:1.0.4]
+	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:326) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$$anonfun$recover$1.apply(Future.scala:326) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36) ~[scala-library-2.11.12.jar:na]
+	at org.spark_project.guava.util.concurrent.MoreExecutors$SameThreadExecutorService.execute(MoreExecutors.java:293) ~[spark-network-common_2.11-2.3.0.jar:2.3.0]
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$1.execute(ExecutionContextImpl.scala:136) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:44) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:252) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:157) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:237) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$$anonfun$map$1.apply(Future.scala:237) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch$$anonfun$run$1.processBatch$1(BatchingExecutor.scala:63) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:78) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch$$anonfun$run$1.apply(BatchingExecutor.scala:55) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch$$anonfun$run$1.apply(BatchingExecutor.scala:55) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:54) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:601) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.BatchingExecutor$class.execute(BatchingExecutor.scala:106) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:599) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:44) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:252) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.Promise$class.tryFailure(Promise.scala:112) ~[scala-library-2.11.12.jar:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryFailure(Promise.scala:157) ~[scala-library-2.11.12.jar:na]
+	at org.apache.spark.rpc.netty.NettyRpcEnv.org$apache$spark$rpc$netty$NettyRpcEnv$$onFailure$1(NettyRpcEnv.scala:206) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at org.apache.spark.rpc.netty.NettyRpcEnv$$anon$1.run(NettyRpcEnv.scala:243) ~[spark-core_2.11-2.3.0.jar:2.3.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[na:1.8.0_121]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180) ~[na:1.8.0_121]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) ~[na:1.8.0_121]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) ~[na:1.8.0_121]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_121]
+Caused by: java.util.concurrent.TimeoutException: Cannot receive any reply from 192.168.99.1:55382 in 120 seconds
+	... 8 common frames omitted
+2019-04-27 16:53:05,168 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 16:53:08,345 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:53:08,354 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:53:08,375 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 16:53:09,169 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:53:09,228 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:53:09,245 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 16:53:09,766 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427165309_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427165309_0000_m_000000
+2019-04-27 16:56:16,009 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 16:56:19,119 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:56:19,128 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:56:19,149 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 16:56:19,882 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:56:19,930 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:56:19,939 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 16:56:20,367 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427165620_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427165620_0000_m_000000
+2019-04-27 16:59:26,672 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 16:59:29,839 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:59:29,847 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 16:59:29,867 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 16:59:30,615 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:59:30,671 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 16:59:30,686 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 16:59:31,166 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427165930_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427165930_0000_m_000000
+2019-04-27 17:01:34,196 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 17:01:37,222 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 17:01:37,231 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 17:01:37,250 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 17:01:37,963 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 17:01:38,007 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 17:01:38,017 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 17:01:38,463 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427170138_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427170138_0000_m_000000
+2019-04-27 17:02:21,700 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 17:02:24,773 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 17:02:24,781 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 17:02:24,799 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 17:02:25,507 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 17:02:25,555 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 17:02:25,566 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 17:02:26,000 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427170225_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427170225_0000_m_000000
+2019-04-27 17:02:53,974 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 17:02:57,005 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 17:02:57,013 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 17:02:57,033 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 17:02:57,761 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 17:02:57,821 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 17:02:57,830 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 17:02:58,277 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427170258_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427170258_0000_m_000000
+2019-04-27 17:05:02,995 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 17:05:06,070 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 17:05:06,078 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 17:05:06,098 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 17:05:06,812 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 17:05:06,859 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 17:05:06,867 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 17:05:07,297 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427170507_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427170507_0000_m_000000
+2019-04-27 18:08:03,427 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 18:08:06,644 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:08:06,653 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:08:06,673 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 18:08:07,402 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:08:07,448 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:08:07,460 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 18:08:07,908 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427180807_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427180807_0000_m_000000
+2019-04-27 18:08:31,325 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 18:08:34,414 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:08:34,424 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:08:34,444 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 18:08:35,213 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:08:35,269 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:08:35,284 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 18:08:35,744 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427180835_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427180835_0000_m_000000
+2019-04-27 18:16:51,625 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 18:16:54,888 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:16:54,897 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:16:54,917 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 18:16:55,723 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:16:55,797 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:16:55,808 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 18:16:56,345 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427181656_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427181656_0000_m_000000
+2019-04-27 18:17:50,381 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 18:17:53,512 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:17:53,521 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:17:53,541 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 18:17:54,276 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:17:54,323 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:17:54,334 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 18:17:54,783 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427181754_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427181754_0000_m_000000
+2019-04-27 18:32:54,640 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 18:32:58,095 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:32:58,104 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 18:32:58,124 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 18:32:58,976 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:32:59,040 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 18:32:59,061 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 18:32:59,598 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427183259_0000_m_000000_0' to file:/Users/maxwell/pro/output/_temporary/0/task_20190427183259_0000_m_000000
+2019-04-27 19:55:55,840 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 19:55:59,894 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 19:55:59,914 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 19:55:59,942 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 19:56:00,978 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 19:56:01,056 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 19:56:01,085 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 19:56:01,748 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427195601_0000_m_000000_0' to file:/Users/maxwell/pro/code/scala/output/_temporary/0/task_20190427195601_0000_m_000000
+2019-04-27 19:58:53,903 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 19:58:56,970 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 19:58:56,978 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 19:58:56,996 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 19:58:57,746 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 19:58:57,806 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 19:58:57,816 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 19:58:58,306 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427195858_0000_m_000000_0' to file:/Users/maxwell/pro/code/scala/output/_temporary/0/task_20190427195858_0000_m_000000
+2019-04-27 20:54:21,925 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 20:54:24,976 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 20:54:24,984 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 20:54:25,006 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 20:54:25,729 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 20:54:25,772 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 20:54:25,782 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 20:54:26,229 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427205426_0000_m_000000_0' to file:/Users/maxwell/pro/code/scala/output/_temporary/0/task_20190427205426_0000_m_000000
+2019-04-27 23:20:34,177 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 23:20:37,978 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 23:20:37,988 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 23:20:38,012 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 23:20:38,954 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 23:20:39,027 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 23:20:39,044 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 23:20:39,652 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427232039_0000_m_000000_0' to file:/Users/maxwell/pro/code/scala/output/_temporary/0/task_20190427232039_0000_m_000000
+2019-04-27 23:29:00,494 WARN main org.apache.hadoop.util.NativeCodeLoader - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-04-27 23:29:04,172 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 23:29:04,182 WARN main org.apache.spark.sql.execution.datasources.DataSource - Multiple sources found for csv (com.databricks.spark.csv.DefaultSource15, org.apache.spark.sql.execution.datasources.csv.CSVFileFormat), defaulting to the internal datasource (org.apache.spark.sql.execution.datasources.csv.CSVFileFormat).
+2019-04-27 23:29:04,205 WARN main org.apache.spark.util.Utils - Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+2019-04-27 23:29:05,091 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 23:29:05,158 INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 8
+2019-04-27 23:29:05,175 INFO main org.apache.hadoop.mapreduce.lib.input.CombineFileInputFormat - DEBUG: Terminated node allocation with : CompletedNodes: 1, size left: 24802
+2019-04-27 23:29:05,753 INFO Executor task launch worker for task 0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_20190427232905_0000_m_000000_0' to file:/Users/maxwell/pro/code/scala/output/_temporary/0/task_20190427232905_0000_m_000000
